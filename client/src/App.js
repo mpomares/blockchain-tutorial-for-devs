@@ -77,7 +77,7 @@ function App() {
               <div className="mb-3">
                 <input type="number" className="form-control" placeholder="0" onChange={handleDepositChange} value={depositValue} />
               </div>
-              <button type="submit" className="btn btn-success">Deposit</button>
+              <button type="submit" className="btn btn-success">Deposito</button>
             </form>
 
             <h4 className="mt-3">Change Greeting</h4>
